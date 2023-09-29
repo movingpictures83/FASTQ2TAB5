@@ -1,0 +1,3 @@
+mate1	A_R1.fastq
+mate2	A_R2.fastq
+affix	A

@@ -1,0 +1,2 @@
+Prefix plugins/FASTQ2TAB5/example/
+Plugin FASTQ2TAB5 inputfile parameters.txt outputfile output.tab5
